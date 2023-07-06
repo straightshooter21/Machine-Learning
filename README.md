@@ -1,1 +1,1 @@
-# Linear-Regression-on-Stock-Data
+Data Manipukation and Visuilization with Python3
